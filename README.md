@@ -28,7 +28,6 @@
     - https://www.youtube.com/watch?v=mPmoojB54xI
   - Elli Goulding - Lights
     - https://www.youtube.com/watch?v=0NKUpo_xKyQ
-  - 
 -  Painting
   - https://www.youtube.com/@PaintingsbyDusan
 -  Sprouts
@@ -36,4 +35,3 @@
   - https://www.youtube.com/@sprouts
 - 척추 세우는 법
   - https://www.youtube.com/watch?v=bSDm0OO89ys
-- 
