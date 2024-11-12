@@ -5,8 +5,8 @@
 
 
 ## Youtube
-- Fun with Transistors [ ]
-  - https://www.youtube.com/watch?v=5vRAACeebjI
+- Fun with Transistors 
+  - [ ] https://www.youtube.com/watch?v=5vRAACeebjI
 - Hello, world from scratch
   - https://www.youtube.com/watch?v=LnzuMJLZRdU
 - So you Think you know Git - FOSDEM 2024
