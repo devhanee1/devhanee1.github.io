@@ -38,3 +38,6 @@
   - https://www.youtube.com/@sprouts
 - 척추 세우는 법
   - https://www.youtube.com/watch?v=bSDm0OO89ys
+ 
+- How jpeg works?
+  - https://www.youtube.com/watch?v=Kv1Hiv3ox8I
