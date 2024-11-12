@@ -7,13 +7,16 @@
 ## Youtube
 - Fun with Transistors
   - https://www.youtube.com/watch?v=5vRAACeebjI
+- Hello, world from scratch
+  - https://www.youtube.com/watch?v=LnzuMJLZRdU
 - So you Think you know Git - FOSDEM 2024
   - https://www.youtube.com/watch?v=aolI_Rz0ZqY
-- 종가베팅의 모든 것
+- 종가베팅
   - https://www.youtube.com/watch?v=tb208jlmMX4
-- 이유있는 종가베팅
   - https://www.youtube.com/watch?v=_c8LZ-ItyFA
-    
+  - https://www.youtube.com/watch?v=vwe1tzE8i94
+- 돌파매매 스캘핑
+  - https://www.youtube.com/watch?v=remahA4APfI  
 - Kube NDS
   - https://www.youtube.com/watch?v=LBsZYPUUGuM
   - https://www.youtube.com/watch?v=1UBgSARBdBc
