@@ -28,9 +28,9 @@
     - https://www.youtube.com/watch?v=mPmoojB54xI
   - Elli Goulding - Lights
     - https://www.youtube.com/watch?v=0NKUpo_xKyQ
--  Painting
+- Painting
   - https://www.youtube.com/@PaintingsbyDusan
--  Sprouts
+- Sprouts
   - [https://www.youtube.com/watch?v=epQTfderRCk](https://www.youtube.com/@SproutsKorea)
   - https://www.youtube.com/@sprouts
 - 척추 세우는 법
