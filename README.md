@@ -5,7 +5,7 @@
 
 
 ## Youtube
-- Fun with Transistors []
+- Fun with Transistors [ ]
   - https://www.youtube.com/watch?v=5vRAACeebjI
 - Hello, world from scratch
   - https://www.youtube.com/watch?v=LnzuMJLZRdU
