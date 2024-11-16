@@ -44,3 +44,5 @@
 - 주식관련
   - https://www.youtube.com/watch?v=WwqDWLDxvt0&list=PLYoNND5p81l22stJg7-akouTEVQuky867
   - https://youtube.com/shorts/Wcb1TYT2KmE?si=85q8_94nXb9y-VNQ
+- Terraform
+  - Kind cluster 사용한 예제 : https://malwareanalysis.tistory.com/480
