@@ -31,6 +31,8 @@
     - https://www.youtube.com/watch?v=mPmoojB54xI
   - Elli Goulding - Lights
     - https://www.youtube.com/watch?v=0NKUpo_xKyQ
+  - David, Guetta, OneRepublic - I don't want wait
+    - https://www.youtube.com/watch?v=4GlxbwZwx5I  
 - Painting
   - https://www.youtube.com/@PaintingsbyDusan
 - Sprouts
